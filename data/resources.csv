@@ -1,0 +1,51 @@
+Resource ID,Name,Role,Department,Project,Start Date,End Date,Utilization (%),Status
+46685257,Charles Garcia,Software Engineer,Product,Project W,2026-01-04,2026-06-29,76,On Leave
+0822e8f3,Daniel Wagner,Data Analyst,Marketing,Project B,2026-01-04,2026-04-23,101,On Bench
+a65ed389,Jennifer Cole,Business Analyst,Marketing,Project L,2026-01-04,2026-06-20,56,On Bench
+c241330b,Melissa Peterson,Data Analyst,Product,Project T,2026-01-04,2026-04-09,73,On Leave
+562b0f79,James Howard,Software Engineer,Operations,Project E,2026-01-04,2026-05-16,101,Active
+0b1f9163,Kimberly Dudley,Business Analyst,Marketing,Project O,2026-01-04,2026-06-30,89,Active
+d453dd32,Stacey Ward,Software Engineer,Operations,Project N,2026-01-04,2026-03-10,81,On Leave
+a9488d99,Dylan Miller,Software Engineer,Product,Project R,2026-01-04,2026-04-07,102,On Bench
+47294739,Roy Martin,Data Analyst,IT,Project U,2026-01-04,2026-02-09,74,On Bench
+b3aa7efe,Maria Lynch,Business Analyst,Marketing,Project V,2026-01-04,2026-04-28,79,On Leave
+29d4beef,Devin Schaefer,UX Designer,Finance,Project O,2026-01-04,2026-07-03,50,On Bench
+d7c524a5,Amy Underwood,UX Designer,Product,Project N,2026-01-04,2026-03-27,94,On Leave
+3602f8ac,Latoya Robbins,Data Analyst,Product,Project T,2026-01-04,2026-03-24,105,Active
+e27a984d,Judy Baker,Business Analyst,Marketing,Project R,2026-01-04,2026-06-24,100,On Leave
+434308bc,Jessica Silva,Data Analyst,Finance,Project Q,2026-01-04,2026-02-11,77,On Leave
+2369b584,Ann Williams,Data Analyst,Marketing,Project F,2026-01-04,2026-05-26,91,Active
+cac5b68c,Linda Cruz,Project Manager,Product,Project Q,2026-01-04,2026-03-20,95,On Leave
+405cacec,Shannon Smith,Software Engineer,Product,Project Y,2026-01-04,2026-03-23,114,On Leave
+c0398710,Martin Rodriguez,Business Analyst,Marketing,Project W,2026-01-04,2026-03-02,109,Active
+f42d47cc,Michelle Stanton,UX Designer,Finance,Project V,2026-01-04,2026-02-06,87,Active
+deda4e16,Sarah Romero,Software Engineer,Marketing,Project M,2026-01-04,2026-03-08,63,On Bench
+295b4715,Paula Moreno,Software Engineer,Product,Project A,2026-01-04,2026-06-29,75,On Leave
+04fc6d82,Jack Galloway,Software Engineer,Product,Project M,2026-01-04,2026-03-15,92,On Leave
+e0c53cb8,Angela Dennis,Project Manager,Product,Project C,2026-01-04,2026-06-03,71,On Bench
+c40db9b4,Matthew Arroyo,UX Designer,IT,Project I,2026-01-04,2026-06-16,54,On Leave
+9b49bd26,Daniel Ryan,Project Manager,IT,Project O,2026-01-04,2026-03-08,98,On Bench
+fec21bbe,Jacqueline Lam,Business Analyst,Operations,Project G,2026-01-04,2026-03-05,99,On Bench
+1064005c,Kevin Hall,UX Designer,IT,Project A,2026-01-04,2026-04-02,111,On Bench
+a18ff6b6,Austin Johnson,Business Analyst,Finance,Project D,2026-01-04,2026-03-27,105,Active
+474a493b,Cindy Anderson,Business Analyst,Marketing,Project U,2026-01-04,2026-02-06,61,Active
+c8dcd19f,Jason Davis,Business Analyst,Product,Project F,2026-01-04,2026-06-18,83,Active
+693dffbc,Nicholas Nunez,Software Engineer,Finance,Project T,2026-01-04,2026-05-07,53,On Bench
+ba6c34ab,Scott Wright,Project Manager,Product,Project W,2026-01-04,2026-02-14,114,Active
+6c006f61,Joel Baxter,Project Manager,Operations,Project G,2026-01-04,2026-04-05,75,On Leave
+db20a56e,Amber Kidd,Software Engineer,Marketing,Project U,2026-01-04,2026-03-24,101,Active
+c0e9ab30,Carol Tucker,Project Manager,Marketing,Project L,2026-01-04,2026-04-24,70,Active
+0f02bad0,Aaron Myers,Project Manager,Operations,Project I,2026-01-04,2026-05-23,88,On Leave
+f512c4c3,Rachel Stanley,UX Designer,Operations,Project C,2026-01-04,2026-05-17,102,Active
+37bb3eec,Lauren Daniels,Data Analyst,Product,Project K,2026-01-04,2026-05-20,78,Active
+7a0ecfea,Sarah Moore,UX Designer,IT,Project E,2026-01-04,2026-03-25,64,On Bench
+118a9d29,Megan Young,Data Analyst,IT,Project M,2026-01-04,2026-05-26,114,On Leave
+3f07f814,Amanda Miller,Data Analyst,Product,Project Z,2026-01-04,2026-03-02,53,On Leave
+50fd9d3f,Christina Moran,Software Engineer,Operations,Project Q,2026-01-04,2026-02-13,91,Active
+abf3e3fc,Joyce Hickman,Software Engineer,IT,Project B,2026-01-04,2026-04-02,69,On Leave
+ff9ab5c2,Ariel Medina,Business Analyst,Finance,Project M,2026-01-04,2026-04-06,119,Active
+5958a499,Sherry Wood,Project Manager,Finance,Project Q,2026-01-04,2026-02-19,64,On Leave
+b41b3143,William Roman,UX Designer,Marketing,Project T,2026-01-04,2026-05-19,97,On Bench
+8dfa6a56,Matthew Mcmillan,Software Engineer,Marketing,Project F,2026-01-04,2026-02-21,58,On Leave
+1b66b5a9,Brittney Campbell,Business Analyst,Marketing,Project J,2026-01-04,2026-02-28,100,On Bench
+afffcfd2,Deborah Freeman,UX Designer,Finance,Project B,2026-01-04,2026-05-11,78,On Bench

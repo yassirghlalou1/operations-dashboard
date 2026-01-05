@@ -1,0 +1,201 @@
+Shipment ID,Origin,Destination,Expected Arrival,Actual Arrival,Status,Delay Days,Risk Score,Primary Delay Reason
+SHP-12097,London,Sydney,2026-01-04,2026-01-04,On Time,0,17,None
+SHP-55518,New York,Sydney,2026-01-04,2026-01-14,Delayed,10,88,Carrier Issue
+SHP-5778,Berlin,Singapore,2026-01-04,2026-01-04,On Time,0,18,None
+SHP-43719,Berlin,Sydney,2026-01-04,2026-01-04,On Time,0,15,None
+SHP-83507,London,Paris,2026-01-04,2026-01-04,On Time,0,8,None
+SHP-21178,Berlin,Los Angeles,2026-01-04,2026-01-06,Delayed,2,29,Weather Conditions
+SHP-72309,Shanghai,Dubai,2026-01-04,2026-01-04,On Time,0,11,None
+SHP-73519,London,Dubai,2026-01-04,2026-01-04,On Time,0,4,None
+SHP-14663,London,Toronto,2026-01-04,2026-01-04,On Time,0,16,None
+SHP-90573,Shanghai,Dubai,2026-01-04,2026-01-04,On Time,0,17,None
+SHP-71511,London,Paris,2026-01-04,2026-01-10,Delayed,6,97,Weather Conditions
+SHP-48393,New York,Dubai,2026-01-04,2026-01-04,On Time,0,4,None
+SHP-72420,London,Singapore,2026-01-04,2026-01-04,On Time,0,20,None
+SHP-56333,Mumbai,Los Angeles,2026-01-04,2026-01-04,On Time,0,11,None
+SHP-5482,London,Singapore,2026-01-04,2026-01-04,On Time,0,9,None
+SHP-47795,Shanghai,Los Angeles,2026-01-04,2026-01-09,Delayed,5,45,Weather Conditions
+SHP-46898,Mumbai,Dubai,2026-01-04,2026-01-18,Delayed,14,90,Documentation Error
+SHP-89399,New York,Los Angeles,2026-01-04,2026-01-04,On Time,0,14,None
+SHP-87416,Tokyo,Sydney,2026-01-04,2026-01-11,Delayed,7,54,Documentation Error
+SHP-46357,Mumbai,Paris,2026-01-04,2026-01-10,Delayed,6,2,Customs Hold
+SHP-53264,Shanghai,Sydney,2026-01-04,2026-01-04,On Time,0,13,None
+SHP-98235,Shanghai,Dubai,2026-01-04,2026-01-13,Delayed,9,8,Customs Hold
+SHP-31029,Mumbai,Dubai,2026-01-04,2026-01-07,Delayed,3,75,Weather Conditions
+SHP-23206,London,Paris,2026-01-04,2026-01-04,On Time,0,15,None
+SHP-3248,Tokyo,Los Angeles,2026-01-04,2026-01-04,On Time,0,5,None
+SHP-96542,Shanghai,Singapore,2026-01-04,2026-01-04,On Time,0,2,None
+SHP-53964,Tokyo,Singapore,2026-01-04,2026-01-04,On Time,0,19,None
+SHP-34970,New York,Toronto,2026-01-04,2026-01-04,On Time,0,14,None
+SHP-91917,Berlin,Sydney,2026-01-04,2026-01-17,Delayed,13,6,Port Congestion
+SHP-50140,Tokyo,Toronto,2026-01-04,2026-01-13,Delayed,9,47,Carrier Issue
+SHP-61694,New York,Singapore,2026-01-04,2026-01-04,On Time,0,17,None
+SHP-26158,Mumbai,Sydney,2026-01-04,2026-01-04,On Time,0,15,None
+SHP-45830,New York,Los Angeles,2026-01-04,2026-01-04,On Time,0,6,None
+SHP-29831,Mumbai,Sydney,2026-01-04,2026-01-04,On Time,0,13,None
+SHP-3101,Tokyo,Toronto,2026-01-04,2026-01-12,Delayed,8,28,Weather Conditions
+SHP-52227,London,Toronto,2026-01-04,2026-01-04,On Time,0,7,None
+SHP-36517,Tokyo,Paris,2026-01-04,2026-01-04,On Time,0,12,None
+SHP-36585,Tokyo,Sydney,2026-01-04,2026-01-04,On Time,0,1,None
+SHP-84080,Shanghai,Sydney,2026-01-04,2026-01-08,Delayed,4,96,Carrier Issue
+SHP-52386,London,Los Angeles,2026-01-04,2026-01-16,Delayed,12,93,Customs Hold
+SHP-43404,Berlin,Toronto,2026-01-04,2026-01-04,On Time,0,10,None
+SHP-15118,London,Sydney,2026-01-04,2026-01-04,On Time,0,9,None
+SHP-23405,Shanghai,Los Angeles,2026-01-04,2026-01-04,On Time,0,18,None
+SHP-34795,Mumbai,Los Angeles,2026-01-04,2026-01-04,On Time,0,8,None
+SHP-14208,New York,Singapore,2026-01-04,2026-01-04,On Time,0,6,None
+SHP-56959,Shanghai,Toronto,2026-01-04,2026-01-04,On Time,0,6,None
+SHP-95491,London,Paris,2026-01-04,2026-01-04,On Time,0,7,None
+SHP-57199,Tokyo,Dubai,2026-01-04,2026-01-04,On Time,0,13,None
+SHP-67033,Berlin,Sydney,2026-01-04,2026-01-04,On Time,0,1,None
+SHP-50488,New York,Singapore,2026-01-04,2026-01-04,On Time,0,7,None
+SHP-24914,Berlin,Toronto,2026-01-04,2026-01-04,On Time,0,14,None
+SHP-5817,Shanghai,Paris,2026-01-04,2026-01-04,On Time,0,17,None
+SHP-221,Shanghai,Singapore,2026-01-04,2026-01-08,Delayed,4,31,Carrier Issue
+SHP-70575,London,Los Angeles,2026-01-04,2026-01-04,On Time,0,18,None
+SHP-47739,Shanghai,Toronto,2026-01-04,2026-01-04,On Time,0,6,None
+SHP-9171,Berlin,Los Angeles,2026-01-04,2026-01-04,On Time,0,8,None
+SHP-81678,Berlin,Singapore,2026-01-04,2026-01-04,On Time,0,3,None
+SHP-86951,London,Los Angeles,2026-01-04,2026-01-04,On Time,0,10,None
+SHP-94339,Mumbai,Dubai,2026-01-04,2026-01-04,On Time,0,10,None
+SHP-66469,Shanghai,Toronto,2026-01-04,2026-01-18,Delayed,14,32,Carrier Issue
+SHP-87410,Mumbai,Paris,2026-01-04,2026-01-19,Delayed,15,17,Carrier Issue
+SHP-42753,Tokyo,Sydney,2026-01-04,2026-01-19,Delayed,15,73,Documentation Error
+SHP-91384,Tokyo,Toronto,2026-01-04,2026-01-04,On Time,0,19,None
+SHP-72667,Berlin,Sydney,2026-01-04,2026-01-06,Delayed,2,19,Port Congestion
+SHP-25144,Mumbai,Paris,2026-01-04,2026-01-04,On Time,0,19,None
+SHP-87153,New York,Toronto,2026-01-04,2026-01-04,On Time,0,4,None
+SHP-88777,Tokyo,Paris,2026-01-04,2026-01-04,On Time,0,5,None
+SHP-80676,Berlin,Los Angeles,2026-01-04,2026-01-04,On Time,0,8,None
+SHP-39446,Berlin,Dubai,2026-01-04,2026-01-16,Delayed,12,42,Customs Hold
+SHP-71819,Tokyo,Toronto,2026-01-04,2026-01-08,Delayed,4,73,Weather Conditions
+SHP-39829,Mumbai,Dubai,2026-01-04,2026-01-14,Delayed,10,58,Port Congestion
+SHP-27549,Berlin,Los Angeles,2026-01-04,2026-01-04,On Time,0,15,None
+SHP-76019,Berlin,Singapore,2026-01-04,2026-01-05,Delayed,1,43,Customs Hold
+SHP-85813,Shanghai,Paris,2026-01-04,2026-01-04,On Time,0,2,None
+SHP-60946,Shanghai,Los Angeles,2026-01-04,2026-01-04,On Time,0,5,None
+SHP-57954,New York,Singapore,2026-01-04,2026-01-04,On Time,0,13,None
+SHP-67000,New York,Toronto,2026-01-04,2026-01-04,On Time,0,10,None
+SHP-96463,Tokyo,Paris,2026-01-04,2026-01-04,On Time,0,16,None
+SHP-86356,Shanghai,Los Angeles,2026-01-04,2026-01-04,On Time,0,6,None
+SHP-37196,Tokyo,Singapore,2026-01-04,2026-01-04,On Time,0,12,None
+SHP-87012,Shanghai,Toronto,2026-01-04,2026-01-04,On Time,0,11,None
+SHP-81167,Shanghai,Dubai,2026-01-04,2026-01-04,On Time,0,20,None
+SHP-12240,Shanghai,Toronto,2026-01-04,2026-01-05,Delayed,1,27,Documentation Error
+SHP-88184,Berlin,Dubai,2026-01-04,2026-01-04,On Time,0,19,None
+SHP-29444,Tokyo,Toronto,2026-01-04,2026-01-07,Delayed,3,97,Customs Hold
+SHP-19313,Mumbai,Paris,2026-01-04,2026-01-04,On Time,0,5,None
+SHP-6057,London,Los Angeles,2026-01-04,2026-01-08,Delayed,4,20,Customs Hold
+SHP-62277,New York,Paris,2026-01-04,2026-01-04,On Time,0,15,None
+SHP-9545,London,Toronto,2026-01-04,2026-01-07,Delayed,3,38,Weather Conditions
+SHP-54321,Tokyo,Toronto,2026-01-04,2026-01-04,On Time,0,10,None
+SHP-75454,London,Los Angeles,2026-01-04,2026-01-05,Delayed,1,34,Weather Conditions
+SHP-94155,New York,Paris,2026-01-04,2026-01-06,Delayed,2,76,Customs Hold
+SHP-64799,Tokyo,Los Angeles,2026-01-04,2026-01-04,On Time,0,4,None
+SHP-31979,New York,Singapore,2026-01-04,2026-01-04,On Time,0,10,None
+SHP-85990,London,Sydney,2026-01-04,2026-01-10,Delayed,6,17,Port Congestion
+SHP-98430,Tokyo,Toronto,2026-01-04,2026-01-04,On Time,0,8,None
+SHP-55724,Berlin,Sydney,2026-01-04,2026-01-04,On Time,0,3,None
+SHP-23053,Berlin,Sydney,2026-01-04,2026-01-04,On Time,0,6,None
+SHP-60889,London,Dubai,2026-01-04,2026-01-04,On Time,0,8,None
+SHP-73060,Shanghai,Los Angeles,2026-01-04,2026-01-04,On Time,0,2,None
+SHP-15906,Mumbai,Sydney,2026-01-04,2026-01-04,On Time,0,18,None
+SHP-17477,London,Dubai,2026-01-04,2026-01-10,Delayed,6,38,Documentation Error
+SHP-87500,Mumbai,Sydney,2026-01-04,2026-01-04,On Time,0,7,None
+SHP-73259,New York,Paris,2026-01-04,2026-01-12,Delayed,8,13,Weather Conditions
+SHP-41588,Tokyo,Singapore,2026-01-04,2026-01-10,Delayed,6,47,Documentation Error
+SHP-80301,Tokyo,Toronto,2026-01-04,2026-01-18,Delayed,14,34,Customs Hold
+SHP-55933,New York,Singapore,2026-01-04,2026-01-04,On Time,0,5,None
+SHP-58446,London,Dubai,2026-01-04,2026-01-04,On Time,0,16,None
+SHP-97472,Shanghai,Sydney,2026-01-04,2026-01-09,Delayed,5,31,Weather Conditions
+SHP-58991,Berlin,Paris,2026-01-04,2026-01-17,Delayed,13,95,Customs Hold
+SHP-98536,Berlin,Dubai,2026-01-04,2026-01-04,On Time,0,20,None
+SHP-83579,London,Singapore,2026-01-04,2026-01-04,On Time,0,16,None
+SHP-68327,Berlin,Los Angeles,2026-01-04,2026-01-04,On Time,0,5,None
+SHP-82149,Berlin,Toronto,2026-01-04,2026-01-04,On Time,0,20,None
+SHP-35992,Shanghai,Singapore,2026-01-04,2026-01-04,On Time,0,12,None
+SHP-10155,Tokyo,Paris,2026-01-04,2026-01-04,On Time,0,3,None
+SHP-30735,London,Paris,2026-01-04,2026-01-10,Delayed,6,17,Documentation Error
+SHP-44020,Mumbai,Dubai,2026-01-04,2026-01-04,On Time,0,2,None
+SHP-70798,Berlin,Singapore,2026-01-04,2026-01-04,On Time,0,15,None
+SHP-18136,Shanghai,Los Angeles,2026-01-04,2026-01-18,Delayed,14,34,Documentation Error
+SHP-30311,New York,Los Angeles,2026-01-04,2026-01-19,Delayed,15,21,Port Congestion
+SHP-90957,London,Toronto,2026-01-04,2026-01-13,Delayed,9,93,Port Congestion
+SHP-92591,Berlin,Sydney,2026-01-04,2026-01-04,On Time,0,16,None
+SHP-8418,Mumbai,Singapore,2026-01-04,2026-01-04,On Time,0,13,None
+SHP-53424,London,Los Angeles,2026-01-04,2026-01-04,On Time,0,19,None
+SHP-71121,London,Los Angeles,2026-01-04,2026-01-04,On Time,0,4,None
+SHP-54496,Mumbai,Dubai,2026-01-04,2026-01-04,On Time,0,16,None
+SHP-27110,Tokyo,Sydney,2026-01-04,2026-01-04,On Time,0,12,None
+SHP-51049,London,Sydney,2026-01-04,2026-01-04,On Time,0,12,None
+SHP-91163,Mumbai,Toronto,2026-01-04,2026-01-04,On Time,0,1,None
+SHP-75456,Tokyo,Sydney,2026-01-04,2026-01-04,On Time,0,2,None
+SHP-62518,Tokyo,Sydney,2026-01-04,2026-01-04,On Time,0,7,None
+SHP-46105,Shanghai,Sydney,2026-01-04,2026-01-06,Delayed,2,35,Carrier Issue
+SHP-98759,Berlin,Toronto,2026-01-04,2026-01-19,Delayed,15,87,Carrier Issue
+SHP-54921,Shanghai,Singapore,2026-01-04,2026-01-04,On Time,0,18,None
+SHP-97978,Shanghai,Singapore,2026-01-04,2026-01-04,On Time,0,13,None
+SHP-79069,Tokyo,Los Angeles,2026-01-04,2026-01-04,On Time,0,1,None
+SHP-63993,Mumbai,Sydney,2026-01-04,2026-01-06,Delayed,2,83,Carrier Issue
+SHP-35774,Shanghai,Paris,2026-01-04,2026-01-04,On Time,0,4,None
+SHP-63654,Shanghai,Singapore,2026-01-04,2026-01-18,Delayed,14,10,Port Congestion
+SHP-50968,Mumbai,Dubai,2026-01-04,2026-01-09,Delayed,5,44,Documentation Error
+SHP-87670,London,Dubai,2026-01-04,2026-01-14,Delayed,10,45,Documentation Error
+SHP-94919,Berlin,Singapore,2026-01-04,2026-01-04,On Time,0,9,None
+SHP-61261,Mumbai,Paris,2026-01-04,2026-01-04,On Time,0,18,None
+SHP-81560,Tokyo,Paris,2026-01-04,2026-01-04,On Time,0,18,None
+SHP-3534,Berlin,Los Angeles,2026-01-04,2026-01-04,On Time,0,6,None
+SHP-77580,New York,Dubai,2026-01-04,2026-01-19,Delayed,15,67,Weather Conditions
+SHP-86900,Shanghai,Los Angeles,2026-01-04,2026-01-11,Delayed,7,7,Carrier Issue
+SHP-11003,Shanghai,Dubai,2026-01-04,2026-01-04,On Time,0,16,None
+SHP-56179,Shanghai,Paris,2026-01-04,2026-01-04,On Time,0,16,None
+SHP-60515,Mumbai,Toronto,2026-01-04,2026-01-07,Delayed,3,17,Customs Hold
+SHP-6590,London,Dubai,2026-01-04,2026-01-04,On Time,0,11,None
+SHP-49689,New York,Dubai,2026-01-04,2026-01-10,Delayed,6,83,Weather Conditions
+SHP-27742,Mumbai,Los Angeles,2026-01-04,2026-01-04,On Time,0,14,None
+SHP-42840,Tokyo,Singapore,2026-01-04,2026-01-04,On Time,0,1,None
+SHP-99775,Tokyo,Singapore,2026-01-04,2026-01-04,On Time,0,7,None
+SHP-36471,Mumbai,Paris,2026-01-04,2026-01-04,On Time,0,14,None
+SHP-33065,Mumbai,Sydney,2026-01-04,2026-01-04,On Time,0,18,None
+SHP-61644,Mumbai,Paris,2026-01-04,2026-01-17,Delayed,13,95,Carrier Issue
+SHP-98176,Shanghai,Singapore,2026-01-04,2026-01-04,On Time,0,19,None
+SHP-6826,Tokyo,Singapore,2026-01-04,2026-01-04,On Time,0,11,None
+SHP-29389,Berlin,Sydney,2026-01-04,2026-01-16,Delayed,12,39,Weather Conditions
+SHP-8993,Shanghai,Los Angeles,2026-01-04,2026-01-08,Delayed,4,75,Weather Conditions
+SHP-5276,Shanghai,Sydney,2026-01-04,2026-01-04,On Time,0,4,None
+SHP-32411,New York,Sydney,2026-01-04,2026-01-04,On Time,0,19,None
+SHP-2671,Mumbai,Paris,2026-01-04,2026-01-04,On Time,0,5,None
+SHP-19973,Shanghai,Sydney,2026-01-04,2026-01-04,On Time,0,19,None
+SHP-16544,London,Paris,2026-01-04,2026-01-04,On Time,0,2,None
+SHP-87747,New York,Sydney,2026-01-04,2026-01-04,On Time,0,17,None
+SHP-73920,Mumbai,Sydney,2026-01-04,2026-01-04,On Time,0,13,None
+SHP-60952,New York,Toronto,2026-01-04,2026-01-06,Delayed,2,49,Weather Conditions
+SHP-48351,Mumbai,Dubai,2026-01-04,2026-01-04,On Time,0,1,None
+SHP-79415,Tokyo,Singapore,2026-01-04,2026-01-17,Delayed,13,13,Customs Hold
+SHP-98032,Berlin,Dubai,2026-01-04,2026-01-04,On Time,0,3,None
+SHP-21465,New York,Dubai,2026-01-04,2026-01-11,Delayed,7,22,Carrier Issue
+SHP-14168,Mumbai,Toronto,2026-01-04,2026-01-15,Delayed,11,94,Port Congestion
+SHP-3365,Shanghai,Toronto,2026-01-04,2026-01-04,On Time,0,20,None
+SHP-75470,Tokyo,Paris,2026-01-04,2026-01-04,On Time,0,15,None
+SHP-51990,Berlin,Paris,2026-01-04,2026-01-04,On Time,0,7,None
+SHP-9961,Berlin,Singapore,2026-01-04,2026-01-13,Delayed,9,83,Weather Conditions
+SHP-90520,Berlin,Los Angeles,2026-01-04,2026-01-04,On Time,0,1,None
+SHP-31830,London,Sydney,2026-01-04,2026-01-04,On Time,0,13,None
+SHP-91382,Berlin,Dubai,2026-01-04,2026-01-17,Delayed,13,90,Port Congestion
+SHP-89687,London,Sydney,2026-01-04,2026-01-17,Delayed,13,5,Port Congestion
+SHP-15866,Berlin,Los Angeles,2026-01-04,2026-01-11,Delayed,7,19,Documentation Error
+SHP-5383,Mumbai,Los Angeles,2026-01-04,2026-01-16,Delayed,12,9,Carrier Issue
+SHP-69827,Berlin,Los Angeles,2026-01-04,2026-01-04,On Time,0,4,None
+SHP-86706,Tokyo,Paris,2026-01-04,2026-01-04,On Time,0,13,None
+SHP-9038,New York,Sydney,2026-01-04,2026-01-04,On Time,0,13,None
+SHP-84874,Mumbai,Dubai,2026-01-04,2026-01-04,On Time,0,9,None
+SHP-1658,Berlin,Paris,2026-01-04,2026-01-04,On Time,0,5,None
+SHP-64251,New York,Paris,2026-01-04,2026-01-04,On Time,0,6,None
+SHP-56822,Shanghai,Toronto,2026-01-04,2026-01-16,Delayed,12,51,Port Congestion
+SHP-83307,London,Paris,2026-01-04,2026-01-04,On Time,0,7,None
+SHP-92708,Shanghai,Singapore,2026-01-04,2026-01-04,On Time,0,7,None
+SHP-57080,Berlin,Toronto,2026-01-04,2026-01-04,On Time,0,12,None
+SHP-96180,Tokyo,Toronto,2026-01-04,2026-01-04,On Time,0,12,None
+SHP-85256,London,Dubai,2026-01-04,2026-01-18,Delayed,14,42,Customs Hold
+SHP-80728,Tokyo,Paris,2026-01-04,2026-01-09,Delayed,5,87,Port Congestion
+SHP-63372,Mumbai,Dubai,2026-01-04,2026-01-10,Delayed,6,79,Carrier Issue
