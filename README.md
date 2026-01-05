@@ -2,8 +2,7 @@
 
 A professional portfolio project demonstrating data visualization, synthetic data generation, and interactive dashboard creation using Python and Streamlit.
 
-![Dashboard Preview](https://operations-dashboard-cdzmbem87aiidfjauvokey.streamlit.app/)
-*(Note: Replace with actual screenshot after running)*
+![Dashboard Preview] https://operations-dashboard-cdzmbem87aiidfjauvokey.streamlit.app/
 
 ## 🚀 Features
 
